@@ -13,10 +13,13 @@
 	},
 	"main": "index.js",
 	"files": [
+		"rules",
+		"files.js",
+		"index.js",
 		"javascript.js",
+		"next.js",
 		"react.js",
-		"typescript.js",
-		"next.js"
+		"typescript.js"
 	],
 	"eslintConfig": {
 		"extends": [
